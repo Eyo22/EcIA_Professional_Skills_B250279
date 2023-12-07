@@ -1,0 +1,3 @@
+eventID,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,eventDate,eventTime,startDayOfYear,eventRemarks,country,countryCode,locality,locationID,decimalLatitudeSTART,decimalLongitudeSTART,geodeticDatum,coordinateUncertaintyInMeters,type,ownerInstitutionCode
+pointN,Point count,30 minute count of all species seen and heard,,,2023-09-14,10:45-11:15,,,Scotland,,"Lochranza, Isle of Arran",centreN,55.70333,-5.2742,WGS84,,Event,
+pointS,Point count,30 minute count of all species seen and heard,,,2023-09-14,10:07-10:37,,,Scotland,,"Lochranza, Isle of Arran",southeastS,55.6946488,-5.2753201,WGS84,8,Event,

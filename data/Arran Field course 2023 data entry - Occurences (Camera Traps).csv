@@ -1,0 +1,14 @@
+eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,ownerInstitutionCode,habitatType,date,samplingTime
+north1-1,,cameratrapping,1,1,,present,,,,,,sciuridae,sciurus,s. vulgaris,,,Cale,,,bracken,12/9/23,10:45
+north7-1,,cameratrapping,1,1,,present,,,,,,leporidae,oryctolagus,o. cuniculus,,,Cale,,,semiGrassland,14/9/2023,17:42
+north7-2,,cameratrapping,1,1,,present,,,,,,leporidae,oryctolagus,o. cuniculus,,,Cale,,,semiGrassland,14/9/2023,20:01
+north7-3,,cameratrapping,1,1,,present,,,,,,muridae,apodemus,a. sylvaticus,,,Cale,,,semiGrassland,14/9/2023,20:29
+north5-1,,cameratrapping,1,1,,present,,,,,,leporidae,oryctolagus,o. cuniculus,,,Cale,,,semiGrassland,13/9/2023,17:49
+north5-2,,cameratrapping,1,1,,present,,,,,,leporidae,oryctolagus,o. cuniculus,,,Cale,,,semiGrassland,14/9/2023,04:04
+north8-1,,cameratrapping,1,1,,present,,,,,,motacillidae,anthus,a. pratensis,,,Cale,,,semiGrassland,14/9/2023,10:05
+north9-1,,cameratrapping,1,1,,present,,,,,,eulipotyphla,soricidae,s. araneus,,,Cale,,,semiGrassland,15/9/2023,02:41
+south2-1,,cameratrapping,1,1,,present,,,,,,cervinae,cervus,c. elaphus,,,Cale,,,bracken,13/9/2023,07:12
+south4-1,,cameratrapping,1,1,,present,,,,,,cervinae,cervus,c. elaphus,,,Cale,,,bracken,13/9/2023,22:31
+south5-1,,cameratrapping,1,1,,present,,,,,,cervinae,cervus,c. elaphus,,,Cale,,,semiGrassland,14/9/2023,07:53
+south5-2,,cameratrapping,1,1,,present,,,,,,cervinae,cervus,c. elaphus,,,Cale,,,semiGrassland,14/9/2023,08:18
+south5-3,,cameratrapping,1,1,,present,,,,,,cervinae,cervus,c. elaphus,,,Cale,,,semiGrassland,14/9/2023,08:18
